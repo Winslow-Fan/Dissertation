@@ -1,7 +1,7 @@
 # Dissertation
 
 ## Robot-Interception-with-vision-based-deep-reinforcement-learning
-
+Core codes of the project, not complete.
 ### Running code
 1. Install dependencies in `requirements.txt` by
 ```shell
